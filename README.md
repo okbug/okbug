@@ -6,3 +6,7 @@ Wechat: 1583978087
 
 
 E-mail: 1583978087@qq.com
+
+![](https://github-readme-stats.vercel.app/api?username=okbug&show_icons=true)
+
+<!-- ![](https://github-profile-trophy.vercel.app/?username=okbug&theme=flat&column=6) -->

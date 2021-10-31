@@ -16,7 +16,7 @@ E-mail: `1583978087@qq.com`
 
 
 
-<center>[个人博客](https://cxwht.cn/)</centet>
+<center>[个人博客](https://cxwht.cn/)</center>
 
 
 

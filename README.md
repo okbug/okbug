@@ -15,8 +15,9 @@ E-mail: `1583978087@qq.com`
 [Notion文档](https://okbug.notion.site/Hello-World-8cc21d5608fe41989d7d16aa07ffb66b)
 
 
-<center>123</center>
-<center> [个人博客](https://cxwht.cn/) </center>
+
+[个人博客](https://cxwht.cn/)
+
 
 
 

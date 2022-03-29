@@ -19,7 +19,7 @@ E-mail: `1583978087@qq.com`
 
 
 
-[个人博客](https://cxwht.cn/)
+[个人网站](https://ljh.rs/)
 
 
 
